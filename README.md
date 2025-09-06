@@ -26,12 +26,11 @@ C:> hdb_explorer
 
 ![image](./sql.png)
 
-### [Check out the examples folder for more code.](https://github.com/praveen-nair/genai_wrapper/tree/master/examples)
-
 # Found an issue/ Have a suggestion?
 **IMP**: This package is for educational use and is not meant to replace other libraries. 
 
 **IMP**: This is still in development stage!
 
 If something is not working or you have ideas for improvements, please feel free to open an issue.
+
 
