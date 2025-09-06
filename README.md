@@ -30,4 +30,7 @@ C:> hdb_explorer
 
 # Found an issue/ Have a suggestion?
 **IMP**: This package is for educational use and is not meant to replace other libraries. \
+
 **IMP**: This is still in development stage!
+
+If something is not working or you have ideas for improvements, please feel free to open an issue.
